@@ -1,8 +1,7 @@
 /**
  * Author: Tubix
- * Link:
+ * Repo link: https://github.com/tubixpvp/TS_Reflection
  */
-
 
 type ConstructorType = {new(...params:any[]):any}|Function;
 
